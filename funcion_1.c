@@ -1,7 +1,7 @@
 /*
 Ejemplo de funciones en lenguage C
 
-Para compilar: gcc funcion_1.c -o testF.o
+Para compilar: gcc funcion_1.c -o testF.out // gcc funcion_1.c -o testF.exe
 Para ejecutar: ./testF.o (Linux/Mac)
                 testF.exe (Windows)
 
