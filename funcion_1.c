@@ -2,7 +2,7 @@
 Ejemplo de funciones en lenguage C
 
 Para compilar: gcc funcion_1.c -o testF.out // gcc funcion_1.c -o testF.exe
-Para ejecutar: ./testF.o (Linux/Mac)
+Para ejecutar: ./testF.out (Linux/Mac)
                 testF.exe (Windows)
 
 Autor: Alan Garduño Velazquez
