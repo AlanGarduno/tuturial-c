@@ -18,8 +18,8 @@ double division(int, int);
 //Funcion principal
 int main(){
   // Declaracion de variables que serviran como parametros de las funciones
-    int parametro1 = 3;
-    int parametro2 = 7;
+    int parametro1 = 100;
+    int parametro2 = 20;
 
     // Decalracion de una varible entera que guardara el entero que devuelve la funcion suma
     /*
@@ -83,5 +83,5 @@ double division(int a, int b){
   if ( b == 0 ) {
     return -1;
   }
-  return a/b;
+  return (double)(a/b);
 }
