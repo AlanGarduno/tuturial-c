@@ -1,3 +1,12 @@
+/*
+Ejemplo de recursividad en lenguage C
+
+Para compilar: gcc recursividad_1.c -o testA.out // gcc recursividad_1.c -o testA.exe
+Para ejecutar: ./testA.out(Linux/Mac)
+                testA.exe (Windows)
+
+Autor: Alan Garduño Velazquez
+*/
 #include <stdlib.h>
 #include <stdio.h>
 
