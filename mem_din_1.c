@@ -1,3 +1,12 @@
+/*
+Ejemplo de memoria dinamica en lenguage C
+
+Para compilar: gcc mem_din_1.c -o testA.out // gcc arreglo_1.c -o testA.exe
+Para ejecutar: ./testA.out(Linux/Mac)
+                testA.exe (Windows)
+
+Autor: Alan Garduño Velazquez
+*/
 #include <stdlib.h>
 
 int main() {
