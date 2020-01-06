@@ -14,10 +14,13 @@ Autor: Alan Garduño Velazquez
 #include <math.h>
 #include <time.h>
 
+void print(long *a, long n);
+void fill_array(long *a, long n);
+
 int main() {
   long a[100]; // Se declara arreglo de 100 posiciones
-  print(a,100); // Se imprime el arreglo
   fill_array(a,100); // Se llena el arreglo de numeros aleatprios
+  print(a,100); // Se imprime el arreglo
   shell_sort(a,100); // Se ordena
   print(a,100); // Se imprime ordenado
 }
