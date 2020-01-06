@@ -1,3 +1,13 @@
+/*
+Ejemplo de punteros en lenguage C
+
+Para compilar: gcc punteros_1.c -o testA.out // gcc punteros_1.c -o testA.exe
+Para ejecutar: ./testA.out(Linux/Mac)
+                testA.exe (Windows)
+
+Autor: Alan Garduño Velazquez
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
