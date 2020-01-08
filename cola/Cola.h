@@ -20,7 +20,6 @@ la referencia al siguiente elemento
 typedef struct Nodo {
   elemento e;
   struct Nodo * siguiente;
-  
 }Nodo;
 
 /*
