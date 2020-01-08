@@ -75,7 +75,7 @@ elemento pop(Pila *p){
 /*
 Funcion: isEmpty
 Regresa: TRUE si la pila esta vacia FALSE SI NO
-Descripcion: Inserta un elemento en la Pila
+Descripcion: Verifica si la pila esta vacia
 */
 boolean isEmpty(Pila *p){
   boolean r;
