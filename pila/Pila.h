@@ -25,8 +25,8 @@ typedef struct Nodo {
 }Nodo;
 
 /*
-TAD o estrictira Pila
-Se alamcena la referencia siempre al tope de la pila
+TAD o estructura Pila
+Se alamcena la referencia al tope de la pila
 Y el tamaño de las misma
  */
 typedef struct Pila{
