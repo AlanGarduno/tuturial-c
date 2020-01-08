@@ -1,3 +1,12 @@
+/*
+TAD Pila en lenguage C
+
+Para compilar: make
+Para ejecutar: ./Pila (Linux/Mac)
+                Pila (Windows)
+
+Autor: Alan Garduño Velazquez
+*/
 #include <stdio.h>
 #include "Pila.h"
 
