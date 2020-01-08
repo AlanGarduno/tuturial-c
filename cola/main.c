@@ -1,3 +1,12 @@
+/*
+TAD Cola en lenguage C
+
+Para compilar: make
+Para ejecutar: ./Cola (Linux/Mac)
+                Cola (Windows)
+
+Autor: Alan Garduño Velazquez
+*/
 #include <stdio.h>
 #include "Cola.h"
 
