@@ -128,7 +128,6 @@ int size(Cola *c){
 }
 
 /*
-/*
 Funcion: destroy
 Regresa: N/A
 Descripcion: Libera la memoria ocupada por una Cola
