@@ -20,11 +20,14 @@ typedef struct Fraccion {
 int main(){
 
   Fraccion f; //Varaible normal
-  Fraccion * fptr; // Puntero
+  Fraccion * fptr = (Fraccion*)malloc(sizeof(Fraccion)); // Puntero
   f.denominador = 10; //Acc
   f.numerador = 20; // Acceso a las propiedades por operador .
   fptr->denominador=10;
   fptr->numerador=80; // Acceso a las propiedades por operador flecha
+
+  printf("Fraccion: %d/%d\n", f.numerador,f.denominador);
+  printf("Fraccion: %d/%d\n", fptr->numerador, fptr->denominador);
 
   return 0;
   
